@@ -1,0 +1,8 @@
+main{
+  display: flex;
+  flex-direction: row;
+}
+
+app-messages{
+  margin-left: 1rem;
+}
