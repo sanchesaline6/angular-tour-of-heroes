@@ -7,6 +7,7 @@ The Tour of Heroes application helps a staffing agency manage its stable of hero
 - Displays the heroes in a list
 - Edits selected hero's details
 - Navigates between different views of heroic data
+- Access live website deploy [here](https://sanchesaline6.github.io/angular-tour-of-heroes/)
 
 # Used technology
 - Directives
